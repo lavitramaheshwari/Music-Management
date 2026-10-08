@@ -1,4 +1,7 @@
-1 Problem Statement
+MUSIC MANAGEMENT SYSTEM
+
+
+**1 Problem Statement**
 In the music industry, managing a large catalog of albums, artists, tracks, and associated
 data can be complex and challenging. Music labels and independent artists often struggle
 to maintain an organized system that tracks all relevant details, including album release
@@ -8,7 +11,10 @@ in updating catalog information, and missed opportunities for marketing and dist
 This Music Album Management System project aims to provide a comprehensive
 solution for organizing, managing, and tracking music catalog data efficiently, ensuring
 all album-related information is centralized and easily accessible.
-2 Project Idea
+
+
+**2 Project Idea**
+
 The Music Album Management System project aims to offer an integrated solution for
 music labels, artists, and distributors to manage their album catalog efficiently. This
 system consolidates essential functionalities into a single, user-friendly platform,
@@ -17,6 +23,7 @@ album information, track listings, release dates, genres, and distribution chann
 organizing these modules into a cohesive system, the project helps maintain accurate
 and up-to-date records, enabling streamlined catalog management and effective data
 tracking.
+
 The project includes a graphical user interface (GUI) that allows users to perform key
 tasks, such as adding, viewing, updating, or deleting records across different modules.
 Each table, such as “Singers,” “Albums,” “Tracks,” and “Genres,” represents a specific
@@ -30,14 +37,16 @@ opportunities based on real-time data. The system provides a scalable foundation
 could be expanded with additional features, such as automated royalty calculations,
 performance analytics, or integration with digital streaming platforms, to meet evolving
 industry needs.
-3
-3 Tech Stack
-• Python: Programming language to connect with MySQL database and create GUI
+
+
+**3 Tech Stack**
+
+**• Python:** Programming language to connect with MySQL database and create GUI
 Application.
-• Tkinter: Python library for creating the graphic user interface (GUI), providing an
+**• Tkinter:** Python library for creating the graphic user interface (GUI), providing an
 interactive front-end to users.
-• MySQL: SQL Database to store, access, update and manage Inventory data.
-• mysql-connector-python: Python library used to connect MySQL Database with
+**• MySQL:** SQL Database to store, access, update and manage Inventory data.
+**• mysql-connector-python:** Python library used to connect MySQL Database with
 Python for database communication.
-• Pandas: Python data manipulation library used to provide data frames and
+**• Pandas:** Python data manipulation library used to provide data frames and
 represent the data in structured form in GUI application. 
